@@ -198,5 +198,6 @@ gcc calendar.c -o calendar.exe
 ---
 
 **Version**: 1.0  
-**Last Updated**: 2024  
-**License**: Not specified
+**Last Updated**: 2025  
+
+**License**: MIT
